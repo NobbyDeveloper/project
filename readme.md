@@ -1,2 +1,2 @@
 # 🔭 Hello Wold! 🗺
-Hey Houston, this satrting reposity has been arrived. ✔
+Hey Houston, this starting repository has been arrived. ✔
