@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import '@fontsource/barlow';
+import '@fontsource/barlow/index.css';
 
 useHead({
   title: 'Workspace',
@@ -15,7 +15,7 @@ useHead({
 
 <template>
   <div>
-    <p>Hola mundo</p>
+    <h1>Meoow!</h1>
   </div>
 </template>
 
@@ -25,5 +25,10 @@ useHead({
   padding: 0;
   margin: 0;
   --fontsource-display: optional;
+}
+
+h1 {
+  font-weight: 700;
+  padding: 2rem;
 }
 </style>
